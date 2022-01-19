@@ -7,6 +7,17 @@ What you'll find here are materials related to risk management, quantitative fin
 
 Feel free to snoop around, and feel welcome to contact me if you'd like to discuss some of the ideas, or collaborate.
 
+<h3 align="left"> Personal picks: </h3>
+
+[Pricing crack spread options](https://github.com/PiotMik/spread-options) |  [D-vine quantile regression for Stress Testing](https://github.com/PiotMik/PiotMik.github.io/blob/main/AGH-KNMF%20-%20Copula%20Quantile%20Regression%20for%20Stress%20Testing.pdf) | [Airlines passenger satisfaction prediction](https://github.com/adamszczerba/Airlines)
+:---------------------------:|:----------------------------------------------:|:------------------------------------------
+Walkthrough of copula-based Monte Carlo for crack spread option valuation. Delivered as part of a course at AGH University| Case study/presentation delivered during 2021 KNMF conference of financial mathematics. Copula basics, quantile regression with D-vine copula structures, and a showcase of an application in stress testing. | Binary classification, end-to-end ML group project delivered for a course at AGH University.
+
+<p align="center">
+ Browse the full portfolio  <a href="https://github.com/PiotMik/PiotMik.github.io">here </a>.
+</p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/piotr-mikler-5177b3211" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="piotr-mikler-5177b3211" height="20" width="20" /></a>

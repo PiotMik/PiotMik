@@ -1,7 +1,7 @@
 <h1 align="center">Hello there! I'm Piotr 👋</h1>
 <h3 align="center">Mathematician, risk quant, Python enthusiast</h3>
 
-<h2> About the repo </h2>
+<h2> About the account </h2>
 This account is a portfolio of different code snippets, interesting projects, certificates and presentations I delivered in the past.
 What you'll find here are materials related to risk management, quantitative finance and applied mathematics.
 

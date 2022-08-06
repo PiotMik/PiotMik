@@ -14,7 +14,7 @@ Feel free to snoop around, and feel welcome to contact me if you'd like to discu
 Walkthrough of copula-based Monte Carlo for crack spread option valuation. Delivered as part of a course at AGH University| Case study/presentation delivered during 2021 KNMF conference of financial mathematics. Copula basics, quantile regression with D-vine copula structures, and a showcase of an application in stress testing. | Binary classification, end-to-end ML group project delivered for a course at AGH University.
 
 <p align="center">
- Browse the full portfolio  <a href="https://github.com/PiotMik/PiotMik.github.io">here </a>.
+ Feel free to browse my repositories.
 </p>
 
 
